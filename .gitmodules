@@ -1,0 +1,3 @@
+[submodule "src/inner-module"]
+	path = src/inner-module
+	url = https://github.com/pishchynski/inner-module
